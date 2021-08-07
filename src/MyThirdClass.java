@@ -12,5 +12,6 @@ public class MyThirdClass {
 
         String osmanCode="This code is push to remote repository";
         System.out.println("THIS IS REMOTE REPO CODE");
+        System.out.println(osmanCode);
     }
 }
