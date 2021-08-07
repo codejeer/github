@@ -3,14 +3,14 @@ public class MyThirdClass {
         int x=5;
         int sum = x+2;
         System.out.println(sum);
-        
-        int y = 0;
-        int c = 0;
 
-        System.out.println("This is remote repo code");
-        //code code bu bir code this is a code
-        int a = 12;
-        int b = 12;
-        System.out.println(a+b);
+        int y=0;
+
+        String str="Java";
+
+        int z=10;
+
+        String osmanCode="This code is push to remote repository";
+        System.out.println("THIS IS REMOTE REPO CODE");
     }
 }
